@@ -1,16 +1,49 @@
-## Hi there 👋
+# 🚀 Télémaque BUZZI | Computer Science & Engineering 
 
-<!--
-**Azw566/Azw566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Master in Engineering and Computer Science @ Télécom SudParis
+**Specializing in Web Architecture, Data Science, and Image modeling**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus & Research
+* **DeFi & Blockchain Engineering:** Currently optimizing a **Solana Arbitrary MEV (Maximal Extractable Value) bot**. I specialize in **Mempool Monitoring** and **Priority Fee Calculation** to mitigate **Sandwich Attacks** and optimize gas efficiency.
+* **AI & RAG Systems:** Implementing a **Retrieval-Augmented Generation (RAG)** architecture using **vector databases** to analyze complex Chessbase datasets.
+* **Quantitative Modeling:** Engineering a predictive **Bayesian Statistics** engine for Minecraft speedrunning tools, utilizing complex **Probability Distributions** and **Uncorrelated Predictors**.
+
+---
+
+### 🛠 Tech Stack & Core Competencies
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python (Advanced), Java, C++, **Solidity**, SQL, HTML/CSS, php |
+| **Data & AI** | **PyTorch**, Pandas, **Generalized Linear Models (GLM)**, NumPy, Scikit-learn |
+| **Web & Blockchain** | **React**, **Hardhat**, **Foundry**, Web3.js, RESTful APIs |
+| **Robotics & Systems** | **ROS2**, **PX4 Autopilot**, Swarm Intelligence, Git, Jupyter |
+
+---
+
+### 🚀 Key Projects
+
+#### ⚡ Dynamic Arbitrary MEV Bot 
+* **Tech:** Solidity, Python, Hardhat, Web3
+* Developed an **InterDEX Trading Bot** that executes cross-protocol arbitrage. Integrated dynamic strategies to calculate **real-time gas costs** and liquidity depth.
+
+#### 🤖 ROS2 Swarm Rescue Team (University of Naples)
+* **Tech:** ROS2, C++, PX4, Python
+* Architected a **Multi-Agent Swarm System** for autonomous drone rescue. Developed custom **Communication Protocols** for decentralized organization in search-and-rescue simulations.
+
+#### 📈 Predictive Victory Model
+* **Tech:** Python, Jupyter, API Integration
+* Built a robust dataset of 10k+ records. Leveraged **Uncorrelated Predictors** to achieve a **Predictive Power of 95%** in competitive gaming outcomes.
+
+#### 🧬 Swarm Physics Simulation (CNRS Research)
+* **Tech:** Python, C++
+* Developed **Predictive Cluster-Formation Models** to simulate particle-like interactions in large-scale robot swarms, focusing on emergent behavior and **Computational Statistics**.
+
+---
+
+### 📫 Let's connect
+* **LinkedIn:** [linkedin.com/in/telemaque-buzzi](https://www.linkedin.com/in/t%C3%A9l%C3%A9maque-buzzi-menudier/)
+* **Email:** telemaquebuzzi@gmail.com
+* **Location:** Naples, Italy 🇮🇹 | Paris, France 🇫🇷
