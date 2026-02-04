@@ -25,21 +25,12 @@
 
 ### 🚀 Key Projects
 
-#### ⚡ Dynamic Arbitrary MEV Bot 
-* **Tech:** Solidity, Python, Hardhat, Web3
-* Developed an **InterDEX Trading Bot** that executes cross-protocol arbitrage. Integrated dynamic strategies to calculate **real-time gas costs** and liquidity depth.
-
-#### 🤖 ROS2 Swarm Rescue Team (University of Naples)
-* **Tech:** ROS2, C++, PX4, Python
-* Architected a **Multi-Agent Swarm System** for autonomous drone rescue. Developed custom **Communication Protocols** for decentralized organization in search-and-rescue simulations.
-
-#### 📈 Predictive Victory Model
-* **Tech:** Python, Jupyter, API Integration
-* Built a robust dataset of 10k+ records. Leveraged **Uncorrelated Predictors** to achieve a **Predictive Power of 95%** in competitive gaming outcomes.
-
-#### 🧬 Swarm Physics Simulation (CNRS Research)
-* **Tech:** Python, C++
-* Developed **Predictive Cluster-Formation Models** to simulate particle-like interactions in large-scale robot swarms, focusing on emergent behavior and **Computational Statistics**.
+| Project | Skills | Description |
+| :--- | :--- | :--- |
+| Dynamic Arbitrary MEV Bot | Solidity, Python, Hardhat, Web3 | Developed an **InterDEX Trading Bot** that executes cross-protocol arbitrage. Integrated dynamic strategies to calculate **real-time gas costs** and liquidity depth. |
+| ROS2 Swarm Rescue Team (University of Naples) | ROS2, C++, PX4, Python | Architected a **Multi-Agent Swarm System** for autonomous drone rescue. Developed custom **Communication Protocols** for decentralized organization in search-and-rescue simulations. |
+| Predictive Victory Model | Python, Jupyter, API Integration | Built a robust dataset of 10k+ records. Leveraged **Uncorrelated Predictors** to achieve a **Predictive Power of 95%** in competitive gaming outcomes. |
+| Swarm Physics Simulation (CNRS Research) | Python, C++ | Developed **Predictive Cluster-Formation Models** to simulate particle-like interactions in large-scale robot swarms, focusing on emergent behavior and **Computational Statistics**. |
 
 ---
 
