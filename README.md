@@ -6,9 +6,13 @@
 ---
 
 ### 🔭 Current Focus & Research
-* **DeFi & Blockchain Engineering:** Currently optimizing a **Solana Arbitrary MEV (Maximal Extractable Value) bot**. I specialize in **Mempool Monitoring** and **Priority Fee Calculation** to mitigate **Sandwich Attacks** and optimize gas efficiency.
-* **AI & RAG Systems:** Implementing a **Retrieval-Augmented Generation (RAG)** architecture using **vector databases** to analyze complex Chessbase datasets.
-* **Quantitative Modeling:** Engineering a predictive **Bayesian Statistics** engine for Minecraft speedrunning tools, utilizing complex **Probability Distributions** and **Uncorrelated Predictors**.
+
+| Project | Skills | Description |
+| :--- | :--- | :--- |
+| Solana MEV Bot | Rust, Solana, Web3 | Mempool Monitoring	Optimizing an Arbitrary MEV bot with advanced priority fee calculations to mitigate sandwich attacks and improve gas efficiency.|
+| Chess AI & RAG	| Python, Vector DBs | LLMs	Implementing a Retrieval-Augmented Generation (RAG) system to analyze and query complex Chessbase datasets.|
+| Speedrun Modeling | Bayesian Statistics, Java | Data Science	Engineering a predictive engine for Minecraft tools using probability distributions and uncorrelated predictors.|
+| Hybrid Chess Engine | AI Generation, Heuristic Search, Python, Marimo | Combining Generative AI for position analysis with a custom Heuristic Evaluation function for real-time move optimization. |
 
 ---
 
