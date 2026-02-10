@@ -1,0 +1,67 @@
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          height: 200px;
+          background-color: #0d1117;
+          border-radius: 10px;
+          color: #58a6ff;
+        }
+
+        .main-text {
+          font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+          font-size: 35px;
+          font-weight: bold;
+          margin-bottom: 10px;
+        }
+
+        /* Animation du curseur clignotant */
+        .cursor {
+          display: inline-block;
+          width: 10px;
+          animation: blink 1s step-end infinite;
+        }
+
+        @keyframes blink {
+          from, to { opacity: 1; }
+          50% { opacity: 0; }
+        }
+
+        /* Animation du sous-texte qui s'écrit */
+        .sub-text {
+          font-family: 'Adverb Mono', Courier, monospace;
+          font-size: 18px;
+          color: #8b949e;
+          white-space: nowrap;
+          overflow: hidden;
+          width: 0;
+          border-right: 2px solid #58a6ff;
+          animation: typing 4s steps(30, end) forwards, hide-border 0.1s forwards 4s;
+        }
+
+        @keyframes typing {
+          from { width: 0; }
+          to { width: 610px; } 
+        }
+
+        @keyframes hide-border {
+          to { border-right-color: transparent; }
+        }
+      </style>
+
+      <div class="container">
+        <div class="main-text">
+          &gt; Télémaque BUZZI<span class="cursor">_</span>
+        </div>
+        <div class="sub-text">
+          Computer Science / Data Science / Blockchain Development
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
