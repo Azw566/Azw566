@@ -1,4 +1,4 @@
-# 🚀 Télémaque BUZZI | Computer Science & Engineering 
+![Banner](./assets/banner_custom.svg)
 
 ### 🎓 Master in Engineering and Computer Science @ Télécom SudParis
 **Specializing in Web Architecture, Data Science, and Convolutionnal Neural Networks**
