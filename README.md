@@ -5,15 +5,13 @@
 
 ---
 
-### Ongoing projects
+### Ongoing projects and researches
 
 | Project | Skills | Description |
 | :--- | :--- | :--- |
-| Solana MEV Bot | Rust, Solana, Web3 | Mempool Monitoring	Optimizing an Arbitrary MEV bot with advanced priority fee calculations to mitigate sandwich attacks and improve gas efficiency.|
-| Chess AI & RAG	| Python, Vector DBs | LLMs	Implementing a Retrieval-Augmented Generation (RAG) system to analyze and query complex Chessbase datasets.|
-| Speedrun Modeling | Bayesian Statistics, Java | Data Science	Engineering a predictive engine for Minecraft tools using probability distributions and uncorrelated predictors.|
+| Solana MEV Bot | Rust, Solana, Web3 | Mempool Monitoring	Optimizing an Arbitrary MEV bot with advanced priority fee calculations to mitigate sandwich attacks and improve gas efficiency.|| Speedrun Modeling | Bayesian Statistics, Java | Data Science	Engineering a predictive engine for Minecraft tools using probability distributions and uncorrelated predictors.|
 | Hybrid Chess Engine | AI Generation, Heuristic Search, Python, Marimo | Combining Generative AI for position analysis with a custom Heuristic Evaluation function for real-time move optimization. |
-| Hybrid Chess Engine | AI Generation, Heuristic Search, Python, Marimo | Combining Generative AI for position analysis with a custom Heuristic Evaluation function for real-time move optimization. |
+| Ai lense scanner | AI scanning, Image recognition, Python | First project actively using CLAUDE to learn how to delegate tasks to AI agents and how to orchestrate them. |
 
 ---
 
@@ -21,7 +19,7 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python (Advanced), Java, C++, **Solidity**, SQL, HTML/CSS, php |
+| **Languages** | **Python (Advanced)**, Java, C++, **Solidity**, SQL, HTML/CSS, php |
 | **Data & AI** | **PyTorch**, Pandas, **Generalized Linear Models (GLM)**, NumPy, Scikit-learn |
 | **Web & Blockchain** | **React**, **Hardhat**, **Foundry**, Web3.js, RESTful APIs |
 | **Robotics & Systems** | **ROS2**, **PX4 Autopilot**, Swarm Intelligence, Git, Jupyter |
