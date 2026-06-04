@@ -1,7 +1,7 @@
 ![Banner](./assets/banner_custom.svg)
 
 ### Master in Engineering and Computer Science @ Télécom SudParis
-**Specializing in Web Architecture, Data Science, and Convolutionnal Neural Networks**
+**Specializing in Quantitative Finances, Blockchain Trading, and Convolutionnal Neural Networks**
 
 ---
 
