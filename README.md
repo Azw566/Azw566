@@ -25,7 +25,7 @@
 | **Robotics & Systems** | **ROS2**, **PX4 Autopilot**, Swarm Intelligence, Git, Jupyter |
 
 ---
-![Azw566's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azw566&theme=vue-dark&hide_border=true)
+<p align="center"> ![Azw566's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azw566&theme=vue-dark&hide_border=true) </p> 
 ---
 
 ### Key Projects
@@ -38,10 +38,12 @@
 | Swarm Physics Simulation (CNRS Research) | Python, C++ | Developed **Predictive Cluster-Formation Models** to simulate particle-like interactions in large-scale robot swarms, focusing on emergent behavior and **Computational Statistics**. |
 
 ---
-![Azw566's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azw566&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<p align="center"> ![Azw566's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azw566&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) </p> 
 ---
 
 ### Contact
+[![Email](https://img.shields.io/badge/Email-Contact%20me-blue?logo=gmail&logoColor=white)]( telemaquebuzzi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/t%C3%A9l%C3%A9maque-buzzi-menudier/))
 * **LinkedIn:** [linkedin.com/in/telemaque-buzzi](https://www.linkedin.com/in/t%C3%A9l%C3%A9maque-buzzi-menudier/)
 * **Email:** telemaquebuzzi@gmail.com
 * **Location:** Paris, France 🇫🇷
