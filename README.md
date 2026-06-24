@@ -25,6 +25,8 @@
 | **Robotics & Systems** | **ROS2**, **PX4 Autopilot**, Swarm Intelligence, Git, Jupyter |
 
 ---
+![Azw566's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azw566&theme=vue-dark&hide_border=true)
+---
 
 ### Key Projects
 
@@ -35,6 +37,8 @@
 | Predictive Victory Model | Python, Jupyter, API Integration | Built a robust dataset of 10k+ records. Leveraged **Uncorrelated Predictors** to achieve a **Predictive Power of 95%** in competitive gaming outcomes. |
 | Swarm Physics Simulation (CNRS Research) | Python, C++ | Developed **Predictive Cluster-Formation Models** to simulate particle-like interactions in large-scale robot swarms, focusing on emergent behavior and **Computational Statistics**. |
 
+---
+![Azw566's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azw566&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 
 ### Contact
